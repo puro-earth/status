@@ -5,8 +5,14 @@ repo: status # The name of this repository
 sites:
   - name: Puro.earth
     url: https://puro.earth
+  - name: Puro.earth Portal
+    url: https://my.puro.earth/
+  - name: Puro.earth Test Portal
+    url: $PORTAL_TEST_URL
   - name: Puro.earth API
     url: https://api.puro.earth/healthz
+  - name: Puro.earth Sandbox API
+    url: https://api.purosandbox.com/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,12 +22,15 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/puro-earth/status/master/assets/puro_logo.svg
   name: Puro.earth
   introTitle: "**Puro.earth** status page."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is Puro.earth's status page.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Puro.earth
+      href: https://puro.earth
+
+i18n:
+  footer: This page is open source, powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
