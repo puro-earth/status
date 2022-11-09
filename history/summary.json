@@ -76,17 +76,19 @@
     "url": "https://api.purosandbox.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/api.purosandbox.com.ico",
     "slug": "puro-earth-sandbox-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 830,
-    "timeWeek": 723,
-    "timeMonth": 723,
-    "timeYear": 723,
-    "dailyMinutesDown": {}
+    "time": 650,
+    "timeDay": 595,
+    "timeWeek": 650,
+    "timeMonth": 650,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2022-11-09": 0
+    }
   }
 ]
