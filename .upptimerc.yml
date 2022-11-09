@@ -12,7 +12,7 @@ sites:
   - name: Puro.earth API
     url: https://api.puro.earth/healthz
   - name: Puro.earth Sandbox API
-    url: https://api.purosandbox.com/healthz
+    url: $API_SANDBOX_URL
 
 status-website:
   favicon: https://raw.githubusercontent.com/puro-earth/status/master/assets/puro_favicon.png
