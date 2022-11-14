@@ -2,17 +2,31 @@
 owner: puro-earth # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+assignees:
+  - mathewrapid
+
 sites:
   - name: Puro.earth
     url: https://puro.earth
   - name: Puro.earth Registry
     url: https://registry.puro.earth
+    assignees:
+      - tlehtola
+      - ksaren
   - name: Puro.earth Registry back-end
     url: $REGISTRY_BACKEND
+    assignees:
+      - tlehtola
+      - ksaren
   - name: Puro.earth Portal
     url: https://my.puro.earth/
+    assignees:
+      - KimmoM-Sprintit
   - name: Puro.earth API
     url: https://api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
+    assignees:
+      - tlehtola
+      - ksaren
 
 status-website:
   favicon: https://raw.githubusercontent.com/puro-earth/status/master/assets/puro_favicon.png
