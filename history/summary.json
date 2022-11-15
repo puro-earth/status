@@ -76,19 +76,19 @@
     "url": "https://api.puro.earth/$API_SERVICES_HEALT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/api.puro.earth.ico",
     "slug": "puro-earth-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 413,
-    "timeWeek": 462,
-    "timeMonth": 504,
-    "timeYear": 504,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 492,
+    "timeDay": 375,
+    "timeWeek": 449,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2022-11-15": 0
+      "2022-11-15": 16
     }
   }
 ]
