@@ -13,7 +13,7 @@
     "time": 1108,
     "timeDay": 1161,
     "timeWeek": 1201,
-    "timeMonth": 1108,
+    "timeMonth": 1120,
     "timeYear": 1108,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "$REGISTRY_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "puro-earth-registry-back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 533,
-    "timeWeek": 715,
-    "timeMonth": 574,
-    "timeYear": 574,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 3796,
+    "timeWeek": 1508,
+    "timeMonth": 783,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   },
   {
     "name": "Puro.earth Portal",
@@ -67,7 +69,7 @@
     "time": 605,
     "timeDay": 441,
     "timeWeek": 582,
-    "timeMonth": 605,
+    "timeMonth": 596,
     "timeYear": 605,
     "dailyMinutesDown": {}
   },
@@ -76,18 +78,19 @@
     "url": "https://api.puro.earth/$API_SERVICES_HEALT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/api.puro.earth.ico",
     "slug": "puro-earth-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 491,
-    "timeDay": 534,
-    "timeWeek": 546,
-    "timeMonth": 491,
-    "timeYear": 491,
+    "time": 616,
+    "timeDay": 3009,
+    "timeWeek": 1164,
+    "timeMonth": 616,
+    "timeYear": 616,
     "dailyMinutesDown": {
+      "2022-12-07": 0,
       "2022-11-15": 16
     }
   }
