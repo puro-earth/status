@@ -4,19 +4,19 @@
     "url": "https://puro.earth",
     "icon": "https://icons.duckduckgo.com/ip3/puro.earth.ico",
     "slug": "puro-earth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1112,
-    "timeDay": 1178,
-    "timeWeek": 1121,
-    "timeMonth": 1159,
-    "timeYear": 1112,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1111,
+    "timeDay": 1103,
+    "timeWeek": 1110,
+    "timeMonth": 1155,
+    "timeYear": 1111,
     "dailyMinutesDown": {
-      "2022-12-16": 0
+      "2022-12-16": 20
     }
   },
   {
