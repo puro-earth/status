@@ -27,6 +27,11 @@ sites:
     assignees:
       - tlehtola
       - ksaren
+  - name: Puro.earth Sales Channel Services API Documentation
+    url: https://docs.api.puro.earth/
+    assignees:
+      - tlehtola
+      - ksaren
 
 status-website:
   favicon: https://raw.githubusercontent.com/puro-earth/status/master/assets/puro_favicon.png
