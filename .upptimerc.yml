@@ -22,8 +22,18 @@ sites:
     url: https://my.puro.earth/
     assignees:
       - KimmoM-Sprintit
-  - name: Puro.earth API
-    url: https://api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
+  - name: Puro.earth Registry Services API
+    url: https://rs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
+    assignees:
+      - tlehtola
+      - ksaren
+  - name: Puro.earth Sales Channel Management Services API
+    url: https://scms.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
+    assignees:
+      - tlehtola
+      - ksaren
+  - name: Puro.earth Sales Channel Services API
+    url: https://scs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
     assignees:
       - tlehtola
       - ksaren
