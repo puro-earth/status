@@ -42,18 +42,19 @@
     "url": "$REGISTRY_BACKEND",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "puro-earth-registry-back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 705,
-    "timeDay": 487,
-    "timeWeek": 1033,
-    "timeMonth": 681,
+    "timeDay": 599,
+    "timeWeek": 1001,
+    "timeMonth": 682,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2023-01-18": 0,
       "2022-12-07": 7
     }
   },
@@ -80,18 +81,20 @@
     "url": "https://rs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/rs.api.puro.earth.ico",
     "slug": "puro-earth-registry-services-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 426,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
-    "dailyMinutesDown": {}
+    "time": 433,
+    "timeDay": 552,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 433,
+    "dailyMinutesDown": {
+      "2023-01-18": 0
+    }
   },
   {
     "name": "Puro.earth Sales Channel Management Services API",
