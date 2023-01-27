@@ -143,17 +143,17 @@
     "url": "https://docs.api.puro.earth/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.api.puro.earth.ico",
     "slug": "puro-earth-sales-channel-services-api-documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 84,
-    "timeWeek": 196,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 233,
+    "timeDay": 107,
+    "timeWeek": 191,
+    "timeMonth": 233,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   }
 ]
