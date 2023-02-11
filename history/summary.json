@@ -140,6 +140,64 @@
     }
   },
   {
+    "name": "Puro.earth Registry Services API (Staging)",
+    "url": "https://rs.api.purostaging.com/$API_SERVICES_HEALT_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/rs.api.purostaging.com.ico",
+    "slug": "puro-earth-registry-services-api-staging",
+    "status": "up",
+    "uptime": "7.91%",
+    "uptimeDay": "7.91%",
+    "uptimeWeek": "7.91%",
+    "uptimeMonth": "7.91%",
+    "uptimeYear": "7.91%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-02-11": 0
+    }
+  },
+  {
+    "name": "Puro.earth Sales Channel Management Services API (Staging)",
+    "url": "https://scms.api.purostaging.com/$API_SERVICES_HEALT_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/scms.api.purostaging.com.ico",
+    "slug": "puro-earth-sales-channel-management-services-api-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Puro.earth Sales Channel Services API (Staging)",
+    "url": "https://scs.api.purostaging.com/$API_SERVICES_HEALT_ENDPOINT",
+    "icon": "https://icons.duckduckgo.com/ip3/scs.api.purostaging.com.ico",
+    "slug": "puro-earth-sales-channel-services-api-staging",
+    "status": "up",
+    "uptime": "6.98%",
+    "uptimeDay": "6.98%",
+    "uptimeWeek": "6.98%",
+    "uptimeMonth": "6.98%",
+    "uptimeYear": "6.98%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-02-11": 0
+    }
+  },
+  {
     "name": "Puro.earth Sales Channel Services API Documentation",
     "url": "https://docs.api.puro.earth/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.api.puro.earth.ico",
