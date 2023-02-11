@@ -37,6 +37,21 @@ sites:
     assignees:
       - tlehtola
       - ksaren
+  - name: Puro.earth Registry Services API (Staging)
+    url: https://rs.api.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
+    assignees:
+      - tlehtola
+      - ksaren
+  - name: Puro.earth Sales Channel Management Services API (Staging)
+    url: https://scms.api.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
+    assignees:
+      - tlehtola
+      - ksaren
+  - name: Puro.earth Sales Channel Services API (Staging)
+    url: https://scs.api.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
+    assignees:
+      - tlehtola
+      - ksaren
   - name: Puro.earth Sales Channel Services API Documentation
     url: https://docs.api.puro.earth/
     assignees:
