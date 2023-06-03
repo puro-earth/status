@@ -1,7 +1,7 @@
 url: https://scms.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
-status: down
-code: 503
-responseTime: 270
-lastUpdated: 2023-06-03T07:45:32.234Z
+status: up
+code: 200
+responseTime: 381
+lastUpdated: 2023-06-03T08:36:35.808Z
 startTime: Fri Jan 13 2023 09:35:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
