@@ -1,7 +1,7 @@
 url: $REGISTRY_BACKEND
-status: down
-code: 503
-responseTime: 600
-lastUpdated: 2023-06-03T10:08:11.038Z
+status: up
+code: 200
+responseTime: 497
+lastUpdated: 2023-06-03T10:16:28.099Z
 startTime: Wed Nov 09 2022 11:37:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
