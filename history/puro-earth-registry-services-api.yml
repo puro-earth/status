@@ -1,7 +1,7 @@
 url: https://rs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 450
-lastUpdated: 2023-09-19T14:22:58.563Z
+lastUpdated: 2023-09-19T14:29:42.991Z
 startTime: 2023-01-13T09:35:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
