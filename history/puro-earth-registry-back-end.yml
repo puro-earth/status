@@ -1,7 +1,7 @@
 url: $REGISTRY_BACKEND
 status: up
 code: 200
-responseTime: 431
-lastUpdated: 2023-11-21T23:03:17.194Z
+responseTime: 380
+lastUpdated: 2023-11-22T23:03:09.259Z
 startTime: 2022-11-09T11:37:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
