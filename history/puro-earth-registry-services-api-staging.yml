@@ -1,7 +1,7 @@
 url: https://rs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
-status: down
-code: 502
-responseTime: 361
-lastUpdated: 2023-11-26T15:13:18.865Z
+status: up
+code: 200
+responseTime: 494
+lastUpdated: 2023-11-26T15:20:13.121Z
 startTime: 2023-02-15T16:30:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
