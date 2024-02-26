@@ -1,7 +1,7 @@
 url: https://registry.puro.earth
-status: up
-code: 200
-responseTime: 801
-lastUpdated: 2024-02-25T23:03:18.387Z
+status: down
+code: 503
+responseTime: 281
+lastUpdated: 2024-02-26T14:02:46.556Z
 startTime: 2022-11-09T11:37:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
