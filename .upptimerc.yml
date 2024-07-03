@@ -8,14 +8,18 @@ assignees:
 sites:
   - name: Puro.earth
     url: https://puro.earth
+    assignees:
+      - kushpuroearth
   - name: Puro.earth Registry
     url: https://registry.puro.earth
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: Puro.earth Registry back-end
     url: $REGISTRY_BACKEND
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: Puro.earth Portal
     url: https://my.puro.earth/
     assignees:
@@ -23,31 +27,38 @@ sites:
   - name: Puro.earth Registry Services API
     url: https://rs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: Puro.earth Sales Channel Management Services API
     url: https://scms.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: Puro.earth Sales Channel Services API
     url: https://scs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: Puro.earth Sales Channel Services API Documentation
     url: https://docs.api.puro.earth/
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: Puro.earth Registry Services API (Staging)
     url: https://rs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: Puro.earth Sales Channel Management Services API (Staging)
     url: https://scms.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: Puro.earth Sales Channel Services API (Staging)
     url: https://scs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
     assignees:
-      - tlehtola
+      - villetou
+      - leasubrenat
   - name: GitHub
     url: https://www.githubstatus.com/api/v2/status.json
     __dangerous__body_down_if_text_missing: '"indicator":"none"'
