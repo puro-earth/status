@@ -1,7 +1,7 @@
 url: https://rs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
 status: up
 code: 200
-responseTime: 364
-lastUpdated: 2024-07-03T08:32:12.116Z
+responseTime: 400
+lastUpdated: 2024-07-03T23:04:23.699Z
 startTime: 2023-02-15T16:30:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
