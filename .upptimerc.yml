@@ -59,9 +59,6 @@ sites:
     assignees:
       - villetou
       - leasubrenat
-  - name: GitHub
-    url: https://www.githubstatus.com/api/v2/status.json
-    __dangerous__body_down_if_text_missing: '"indicator":"none"'
 
 status-website:
   favicon: https://raw.githubusercontent.com/puro-earth/status/master/assets/puro_favicon.png
