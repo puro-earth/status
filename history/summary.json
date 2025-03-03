@@ -49,9 +49,9 @@
     "url": "https://registry.puro.earth",
     "icon": "https://icons.duckduckgo.com/ip3/registry.puro.earth.ico",
     "slug": "puro-earth-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -61,6 +61,7 @@
     "timeMonth": 866,
     "timeYear": 749,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2024-04-13": 28
     }
   },
