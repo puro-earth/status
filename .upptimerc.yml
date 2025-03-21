@@ -14,10 +14,6 @@ sites:
     url: https://registry.puro.earth
     assignees:
       - villetou
-  - name: Puro.earth Registry back-end
-    url: $REGISTRY_BACKEND
-    assignees:
-      - villetou
   - name: Puro.earth Portal
     url: https://my.puro.earth/
     assignees:
