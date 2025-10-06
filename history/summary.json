@@ -138,18 +138,20 @@
     "url": "https://scms.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/scms.api.puro.earth.ico",
     "slug": "puro-earth-sales-channel-management-services-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 435,
-    "timeWeek": 410,
-    "timeMonth": 450,
+    "timeDay": 371,
+    "timeWeek": 397,
+    "timeMonth": 445,
     "timeYear": 439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-06": 0
+    }
   },
   {
     "name": "Puro.earth Sales Channel Services API",
