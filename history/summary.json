@@ -142,12 +142,12 @@
     "slug": "puro-earth-sales-channel-management-services-api",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.96%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 444,
-    "timeDay": 414,
+    "timeDay": 373,
     "timeWeek": 408,
     "timeMonth": 447,
     "timeYear": 438,
@@ -206,7 +206,7 @@
     "timeDay": 423,
     "timeWeek": 365,
     "timeMonth": 413,
-    "timeYear": 419,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2025-05-24": 48,
       "2025-05-21": 104,
@@ -237,17 +237,19 @@
     "url": "https://scs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/scs.api-preview.purostaging.com.ico",
     "slug": "puro-earth-sales-channel-services-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 500,
-    "timeWeek": 384,
-    "timeMonth": 400,
-    "timeYear": 420,
-    "dailyMinutesDown": {}
+    "timeDay": 420,
+    "timeWeek": 379,
+    "timeMonth": 398,
+    "timeYear": 419,
+    "dailyMinutesDown": {
+      "2025-10-07": 0
+    }
   }
 ]
