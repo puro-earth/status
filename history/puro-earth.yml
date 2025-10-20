@@ -1,7 +1,7 @@
 url: https://puro.earth
-status: up
-code: 200
-responseTime: 952
-lastUpdated: 2025-10-19T23:03:27.121Z
+status: down
+code: 502
+responseTime: 305
+lastUpdated: 2025-10-20T07:59:14.667Z
 startTime: 2022-11-07T12:38:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
