@@ -1,7 +1,7 @@
 url: https://scs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
 status: up
 code: 200
-responseTime: 500
-lastUpdated: 2025-10-23T23:04:22.541Z
+responseTime: 382
+lastUpdated: 2025-10-24T23:04:19.845Z
 startTime: 2023-02-15T16:30:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
