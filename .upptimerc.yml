@@ -22,28 +22,12 @@ sites:
     url: https://rs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
     assignees:
       - villetou
-  - name: Puro.earth Sales Channel Management Services API
-    url: https://scms.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
-    assignees:
-      - villetou
-  - name: Puro.earth Sales Channel Services API
-    url: https://scs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
-    assignees:
-      - villetou
-  - name: Puro.earth Sales Channel Services API Documentation
+  - name: Puro.earth API Documentation
     url: https://docs.api.puro.earth/
     assignees:
       - villetou
   - name: Puro.earth Registry Services API (Staging)
     url: https://rs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
-    assignees:
-      - villetou
-  - name: Puro.earth Sales Channel Management Services API (Staging)
-    url: https://scms.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
-    assignees:
-      - villetou
-  - name: Puro.earth Sales Channel Services API (Staging)
-    url: https://scs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
     assignees:
       - villetou
 
