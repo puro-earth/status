@@ -24,6 +24,7 @@ sites:
       - 200
       - 301
       - 307
+      - 400
     assignees:
       - villetou
   - name: Puro.earth dMRV API
