@@ -20,6 +20,10 @@ sites:
       - kushpuroearth
   - name: Puro.earth Portal 2.0
     url: https://portal.puro.earth/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 307
     assignees:
       - villetou
   - name: Puro.earth dMRV API
