@@ -22,6 +22,11 @@ sites:
     url: https://portal.puro.earth/
     assignees:
       - villetou
+  - name: Puro.earth dMRV API
+    url: https://api.portal.puro.earth/docs
+    assignees:
+      - villetou
+      https://api.portal.puro.earth/docs
   - name: Puro.earth Registry Services API
     url: https://rs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
     assignees:
