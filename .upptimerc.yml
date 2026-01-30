@@ -19,19 +19,11 @@ sites:
     assignees:
       - kushpuroearth
   - name: Puro.earth dMRV API
-    url: https://api.portal.puro.earth/docs
-    assignees:
-      - villetou
-  - name: Puro.earth Registry Services API
-    url: https://rs.api.puro.earth/$API_SERVICES_HEALT_ENDPOINT
+    url: https://api.portal.puro.earth/health
     assignees:
       - villetou
   - name: Puro.earth API Documentation
     url: https://docs.api.puro.earth/
-    assignees:
-      - villetou
-  - name: Puro.earth Registry Services API (Staging)
-    url: https://rs.api-preview.purostaging.com/$API_SERVICES_HEALT_ENDPOINT
     assignees:
       - villetou
 
