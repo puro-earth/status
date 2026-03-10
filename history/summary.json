@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1082,
-    "timeDay": 1264,
-    "timeWeek": 929,
-    "timeMonth": 831,
-    "timeYear": 1115,
+    "timeDay": 1001,
+    "timeWeek": 955,
+    "timeMonth": 848,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2026-01-24": 10,
       "2026-01-08": 9,
@@ -55,13 +55,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2263,
-    "timeDay": 1293,
-    "timeWeek": 689,
-    "timeMonth": 498,
-    "timeYear": 2701,
-    "dailyMinutesDown": {
-      "2025-03-10": 20
-    }
+    "timeDay": 558,
+    "timeWeek": 634,
+    "timeMonth": 510,
+    "timeYear": 2684,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Puro.earth Portal 1.0",
@@ -74,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 886,
-    "timeDay": 1002,
-    "timeWeek": 997,
-    "timeMonth": 887,
-    "timeYear": 886,
+    "time": 887,
+    "timeDay": 913,
+    "timeWeek": 944,
+    "timeMonth": 892,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2026-01-24": 9
     }
@@ -94,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 94,
-    "timeWeek": 135,
-    "timeMonth": 211,
-    "timeYear": 219,
+    "time": 217,
+    "timeDay": 99,
+    "timeWeek": 130,
+    "timeMonth": 212,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -112,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 525,
-    "timeWeek": 309,
-    "timeMonth": 238,
-    "timeYear": 229,
+    "time": 228,
+    "timeDay": 172,
+    "timeWeek": 317,
+    "timeMonth": 234,
+    "timeYear": 228,
     "dailyMinutesDown": {}
   }
 ]
