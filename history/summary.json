@@ -14,7 +14,7 @@
     "timeDay": 908,
     "timeWeek": 1215,
     "timeMonth": 965,
-    "timeYear": 1090,
+    "timeYear": 1091,
     "dailyMinutesDown": {
       "2026-05-06": 59,
       "2026-01-24": 10,
@@ -53,8 +53,8 @@
     "time": 2226,
     "timeDay": 235,
     "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 2299,
+    "timeMonth": 484,
+    "timeYear": 2300,
     "dailyMinutesDown": {}
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://my.puro.earth/",
     "icon": "https://icons.duckduckgo.com/ip3/my.puro.earth.ico",
     "slug": "puro-earth-portal-1-0",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 1070,
-    "timeWeek": 1875,
-    "timeMonth": 1356,
-    "timeYear": 986,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 990,
+    "timeDay": 1321,
+    "timeWeek": 1837,
+    "timeMonth": 1388,
+    "timeYear": 990,
     "dailyMinutesDown": {
-      "2026-05-19": 0,
+      "2026-05-19": 18,
       "2026-01-24": 9
     }
   },
@@ -92,7 +92,7 @@
     "time": 222,
     "timeDay": 310,
     "timeWeek": 158,
-    "timeMonth": 191,
+    "timeMonth": 186,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -110,7 +110,7 @@
     "time": 224,
     "timeDay": 88,
     "timeWeek": 251,
-    "timeMonth": 211,
+    "timeMonth": 210,
     "timeYear": 224,
     "dailyMinutesDown": {}
   }
