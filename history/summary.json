@@ -59,21 +59,21 @@
     "url": "https://my.puro.earth/",
     "icon": "https://icons.duckduckgo.com/ip3/my.puro.earth.ico",
     "slug": "puro-earth-portal-1-0",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1072,
-    "timeDay": 1510,
-    "timeWeek": 1353,
-    "timeMonth": 1495,
-    "timeYear": 1072,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 1075,
+    "timeDay": 1650,
+    "timeWeek": 1408,
+    "timeMonth": 1504,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2026-01-24": 9,
       "2026-05-19": 18,
-      "2026-06-20": 0
+      "2026-06-20": 30
     }
   },
   {
