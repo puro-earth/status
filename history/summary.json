@@ -77,19 +77,19 @@
     "url": "https://api.portal.puro.earth/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.portal.puro.earth.ico",
     "slug": "puro-earth-d-mrv-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 138,
-    "timeWeek": 203,
-    "timeMonth": 209,
-    "timeYear": 210,
+    "time": 211,
+    "timeDay": 187,
+    "timeWeek": 212,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-09-03": 0
+      "2026-09-03": 11
     }
   },
   {
