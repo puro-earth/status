@@ -6,8 +6,9 @@ assignees:
   - villetou
 
 sites:
-  - name: Puro.earth
+  - name: Puro.earth Website
     url: https://puro.earth
+    slug: puro-earth
     assignees:
       - kushpuroearth
   - name: Puro.earth Registry
